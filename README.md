@@ -2,7 +2,7 @@
 
 Install script:
 ```sh
-bash <(curl https://raw.githubusercontent.com/Projecksku/ThemaKrisBotz/main/install.sh)
+bash <(curl https://raw.githubusercontent.com/Projecksku/Temaku/main/install.sh)
 ```
 
 Screenshots:
